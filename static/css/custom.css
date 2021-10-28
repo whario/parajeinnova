@@ -1,0 +1,18 @@
+/* 
+ This CSS file is used to override the existing styles of the theme.
+ You can change the article headings, fonts, colors, etc.
+*/
+/*
+img[src$='#center']
+{
+	text-align: center;
+}
+empleo: Foto-Alberto-web.jpg#center
+*/
+.team {
+	width: 200px;
+	height: auto;
+	float: right;
+	margin: 5px;
+	border-radius: 25px;
+}

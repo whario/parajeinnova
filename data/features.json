@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Personalización",
+    "description": "Aportamos valor a todas aquellas personas o entidades que trabajan o interactúan con el medio natural o el medio rural. Ofrecemos un servicio personalizado y cercano al cliente.",
+    "icon": "fas fa-diagnoses"
+  },
+  {
+    "title": "Flexibilidad",
+    "description": "Nos gustan los nuevos retos, y apoyamos a nuestros clientes para que logren sus objetivos de la mejor forma posible, utilizando las herramientas y técnicas que mejor se adapten a sus necesidades.",
+    "icon": "fas fa-users-cog"
+  },
+  {
+    "title": "Versatilidad",
+    "description": "Nos apoyamos en nuestros propios especialistas y en una extensa red de contactos y colaboradores externos, lo que nos permite abordar proyectos multidisciplinares con gran solvencia.",
+    "icon": "fas fa-people-carry"
+  }
+]

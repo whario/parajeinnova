@@ -1,0 +1,28 @@
++++
+author = "ParajeInnova"
+title = "LUCAS – microbial fuel cells para Smartcities"
+date = "2020-04-12"
+image = "img/blog/economia-circular-valladolid.jpg"
+description = "tecnología novedosa mediante la cual es posible obtener pequeñas cantidades de energía de una forma limpia, basándose en la actividad vital de las bacterias"
+tags = [
+    "Economía circular",
+    "Pila de combustible microbiana",
+]
++++
+## LUCAS – microbial fuel cells para Smartcities
+Después de algún tiempo sin contaros vuestras novedades, volvemos con un nuevo post para informaros de alguno de los proyectos de Economía Circular en los que estamos trabajando.
+Las pilas de combustible microbianas (MFC)
+En esta ocasión, y acorde a la multidisciplinariedad y las ganas de innovar que caracterizan a nuestro equipo técnico, hablaremos del uso de pilas de combustible microbianas (microbial fuel cells - MFC). Se trata de una tecnología novedosa, mediante la cual es posible obtener pequeñas cantidades de energía de una forma limpia, basándose en la actividad vital de los microbios, concretamente las bacterias. Estos seres vivos oxidan la materia orgánica, generando una pequeña corriente eléctrica que puede ser suficiente para el funcionamiento de dispositivos eléctricos o electrónicos de bajo consumo. Se consigue así una nueva fuente de energía renovable y no contaminante, que tiene la principal ventaja con respecto a otras como la solar o la eólica, de no depender de factores externos como la luz solar o el viento, para la producción de energía. En este caso es suficiente con el "alimento" o sustrato que se aporta a las bacterias, en el ánodo de la MFC. Se trata de una tecnología que ya se conoce desde algunos años, y sobre la que aún se sigue investigando. Actualmente, sus usos habituales se dan en los ámbitos de la biorremediación y la depuración de aguas residuales, ya que durante su funcionamiento reducen de forma importante la carga contaminante del agua. Desde Paraje Innovación y Consultoría queremos buscarle una aplicación que facilite su mayor desarrollo y conocimiento, a través de su aprovechamiento económico.
+![pila de combustible microbiana](/img/blog/Microbial_Fuel_Cell.png "pila de combustible microbiana")
+*Esquema de una pila de combustible microbiana. Fuente: Wikimedia commons.*
+## La Economía Circular
+Es por ello que, en busca de una fuente de financiación para el desarrollo de este proyecto, hemos presentado una propuesta a la convocatoria de Subvenciones para Proyectos de Fomento de Economía Circular y Ecoinnovación en el municipio de Valladolid en el año 2019. Ya se han celebrado tres ediciones de estas ayudas a proyectos del ámbito de la Economía Circular que impulsa el Ayuntamiento de Valladolid, en la primera de las cuales (2017), Paraje ya fue concesionaria a través de la iniciativa FUNGYBLE, sobre la que hablaremos en otra ocasión. Se trata de unas subvenciones que resultan fundamentales para el impulso de nuevas ideas que de otra manera sería muy complicado que pudiesen ser llevadas a cabo, especialmente por pequeñas empresas como nosotros. En esta ocasión hemos resultado de nuevo seleccionados, con un meritorio segundo puesto en cuanto a la puntuación global, lo cual nos anima para conseguir el objetivo que se busca con este proyecto. Así, lo hemos denominado LUCAS - microbiaL fUel Cells pAra Smartcities , estando encuadrado en la línea de acción 3 de la convocatoria: Estudios de investigación y/o proyectos demostrativos de nuevos productos o servicios y de reutilización de productos, dado el carácter eminentemente de I+D+i que conlleva.\
+![economía circular](/img/blog/economia-circular-valladolid.jpg "pila de combustible microbiana")
+*Economía circular en Valladolid*
+## El objetivo
+Volviendo a la temática del proyecto, es conocido que las smartcities, con el claro ejemplo de nuestra ciudad, Valladolid, deben estar dotadas de una enorme red de sensores que permitan la recolección de datos de muy diversos tipos a tiempo real, con el fin de dotarles de esa inteligencia que les permitirá llevar a cabo una gestión moderna y optimizada. Estos sensores, para su funcionamiento, necesitan de energía eléctrica que debe serles aportada de alguna manera; en ocasiones, esta energía puede llegar desde una línea eléctrica cercana, una pila o batería convencional, o incluso desde un pequeño panel solar. Sin embargo, habrá ocasiones en que el sensor no esté ubicado en una zona expuesta a la luz o al viento (por ejemplo, en la red de alcantarillado) y por tanto no pueda serle suministrada energía limpia. Mediante este proyecto se pretende el desarrollo de MFCs que puedan suplir esta carencia, aportando a los dispositivos de control, una fuente energía respetuosa con el medio ambiente y que contribuya a la lucha contra el Cambio Climático.\
+\
+![Ejemplo de MFC experimental](/img/blog/CubeMFC-1bptvpw-1000x400.jpg "Ejemplo de MFC experimental")
+*Ejemplo de MFC experimental. Fuente: Penn State University.*\
+\
+Con el fin de llevarlo a cabo, hemos diseñado un proyecto consistente en distintas fases, desde la búsqueda de la configuración óptima de la MFC, el testeo de pilotos en primer lugar en los laboratorios de nuestro partner [Itagra CT](https://www.itagra.com/) (Centro Tecnológico Agrario y Agroalimentario), para posteriormente hacer pruebas demostrativas en nuestra ciudad en el entorno real; finalizaremos con un estudio de los costes de despliegue y mantenimiento de los dispositivos, a fin de evaluar su aplicabilidad. Esperamos en los próximos meses, haceros partícipes de la difusión del avance de este para nosotros, importante proyecto.

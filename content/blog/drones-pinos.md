@@ -1,0 +1,29 @@
++++
+author = "ParajeInnova"
+title = "Empleo de drones en pinares de piñonero"
+date = "2017-05-25"
+image = "img/blog/vuelo-dron-pino.jpg"
+description = "reunión de cartógrafos de orientación"
+tags = [
+    "drones",
+    ]
++++
+## Empleo de drones en pinares de piñonero
+Una de las líneas de negocio de Paraje Innovación y Consultoría tiene como objetivo el llevar las nuevas tecnologías al campo agroforestal, siempre buscando soluciones prácticas y a ser posible, más eficientes que los métodos empleados de forma habitual en cada caso. En el caso de este post, mostramos los resultados de la aplicación de los drones para la estimación de la cantidad de piñas (en pie) en los **pinares de pino piñonero** de un término municipal de la provincia de Valladolid. Además, os animamos a leer un artículo completo sobre estas pruebas que hemos publicado en la revista «La Matacara», publicación local de Quintanilla de Onésimo.
+### El porqué de la experiencia en el pino piñonero:
+La explotación de los pinares de pino piñonero (Pinus pinea) para la extracción de su apreciado fruto, el **piñón**, es una fuente de ingresos económicos importante para el sector forestal de la provincia de Valladolid. En ella se dan grandes masas de la especie, tanto en formas puras como mixtas, mezclados muchas veces con los pinos negrales (Pinus pinaster). Normalmente, los piñeros evalúan la cantidad de piñas que van a poder extraer de los pinares a finales de verano, recorriendo los mismos mediante transectos bajo las copas (ocasionalmente también subiendo a las copas de algunos pinos) y estimando los kilos de piña «a ojo», de tal manera que la experiencia del piñero es clave para esta singular toma de datos. Las piñas son tiradas desde los árboles durante el siguiente invierno, mediante máquinas vibradoras aplicadas a tractor. La hipótesis que nos planteamos para llevar a cabo esta prueba es si sería posible estimar la cantidad de piñas en pie empleando [drones]({{< ref "blog/drones-experiencias.md" >}}) o UAV sobrevolando las copas de los árboles, a fin de hacer más eficiente, así como más precisa, la estimación de la cantidad de fruto antes de su recolección.
+### Prueba realizada:
+A primeros de diciembre del año pasado acudimos al conocido monte «El Carrascal» de Quintanilla de Onésimo (VA),donde en ese momento se estaba realizando la recogida de las piñas del piñonero por parte de una de las familias de piñeros de la localidad, amigos del que suscribe. De esta manera, fue posible tomar las imágenes de los mismos pinos de los que después se realizaría el vibrado, contando de esta manera exactamente el número de piñas caídas desde cada copa a fin de poder comparar los resultados de las imágenes analizadas con la realidad.
+
+Las imágenes aéreas fueron tomadas con un dron [DJI Phantom](http://www.elmundo.es/economia/2016/07/11/577d50b1ca4741765c8b45ea.html) equipado con cámara RGB GoPro, propiedad de la empresa palentina [Überbaum Industrie S.L.](http://uberbaum.com/), con la que muchas veces colaboramos para llevar a cabo distintos proyectos y tomas de datos empleando sus equipos.
+![operador Überbaum pino piñonero](/img/blog/operador.jpg "operador Überbaum pino piñonero")
+
+Una vez tomadas las imágenes se procedió al vibrado de los pinos y al conteo de las piñas caídas, analizando además el % de daños (piñas no aptas) por las distintas plagas y enfermedades que como el como el Leptoglossus sp., afectan a este fruto y que muchas veces provocan que haya un importante porcentaje de pérdidas.
+
+![conteo piñas piñonero](/img/blog/conteo.jpg "conteo piñas piñonero")
+
+De vuelta a la oficina, se analizaron las imágenes tomadas empleando técnicas de **detección de objetos** y **aprendizaje automático** o machine learning, que en Paraje empleamos en distintos proyectos, con el fin de lograr un método automatizado de localización y conteo de las piñas en cada copa.
+### Resultados
+No fueron los esperados, en nuestra opinión por la resolución de las imágenes y por la circunstancia de que las ramas de los pinos siguen creciendo por encima de las «chotas» o piñas jóvenes por lo que muchas de ellas quedan ocultas tras los tres años en que éstas tardan en madurar. Por ello, será necesario hacer más pruebas empleando otros canales del espectro electromagnético y otros sensores acoplados a los drones. Sin embargo, nos percatamos que sí era posible localizar con cierta precisión los bolsones de la [procesionaria del pino](https://web.archive.org/web/20210207130826/https://es.wikipedia.org/wiki/Thaumetopoea_pityocampa) (Thaumetopoea pityocampa), dada su fácil distinción por colores con respecto al resto de la copa del árbol. Así, empleando **técnicas de clasificación** propias de la teledetección, obtuvimos resultados mucho más prometedores en lo que respecta a esta grave plaga, que ocasiona daños en grandes superficies de pinares tanto de pino piñonero como de otras especies del género Pinus spp., como los acontecidos en el Norte de Palencia durante los últimos años. La investigación y el desarrollo de nuevas aplicaciones y servicios algunas veces produce estos resultados, como suele decirse, «una de cal y otra de arena».
+### Publicación
+Fruto del trabajo realizado tuvimos la oportunidad de redactar un artículo completo para la simpática revista local de Quintanilla de índole trimestral «La Matacara», a cuya redacción agradecemos la posibilidad de publicarlo, y que podéis descargar íntegramente a continuación, donde podréis observar más fotografías de la experiencia. Esperamos que resulte de vuestro interés y si tenéis cualquier consulta, no dudéis en poneros en contacto con nosotros.

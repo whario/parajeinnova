@@ -1,0 +1,89 @@
+baseURL = "https://parajeinnova.com"
+title = "ParajeInnova – ParajeInnova | Consultoría ambiental, agrícola y forestal"
+author = "Mario Cepeda"
+languageCode = "es"
+DefaultContentLanguage = "es"
+enableInlineShortcodes = true
+theme = "tella"
+enableRobotsTXT = true
+
+# Please enable this feature if the site is available in Japanese, Chinese or Korean.
+#hasCJKLanguage = true
+
+# If you're using Google Analytics, you can enable this feature.
+#googleAnalytics = "UA-12345678-1"
+
+# Disqus Comment System
+#disqusShortname = ""
+
+[params]
+
+  customCSS = ["css/custom.css"]
+
+  [params.logo]
+    main = "img/logo/logo.png"
+    alt = "Paraje Innova"
+
+  [params.site]
+    name = "Paraje Innovación y Consultoría"
+
+  [params.icon]
+    #If you want to use FontAwesome, set this parameter to true.
+    fa5 = true
+
+  [params.homepage_meta_tags]
+    meta_description = "Consultoría ambiental, agrícola y forestal"
+    meta_og_title = "Parajeinnova"
+    meta_og_type = "website"
+    meta_og_url = "https://parajeinnova.com"
+    meta_og_image = "https://parajeinnova.com/img/logo/logo.png"
+    meta_og_description = "Consultoría ambiental, agrícola y forestal"
+    meta_twitter_card = "summary_large_image"
+    meta_twitter_site = "@username"
+    meta_twitter_creator = "@username"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "products"
+    name = "Cursos"
+    url = "/products/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "about"
+    name = "Quiénes somos"
+    url = "/equipo/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contactar"
+    url = "/contactar/"
+    weight = 5
+
+  [[menu.main]]
+    identifier = "servicios"
+    name = "Qué hacemos"
+    url = "/servicios/"
+    weight = 4
+
+  # Footer Menu
+  [[menu.footer]]
+    name = "Inicio"
+    url = "/"
+      weight = 1
+
+  [[menu.footer]]
+    name = "Facebook"
+    url = "https://www.facebook.com/ParajeInnova"
+      weight = 2
+
+[build]
+  writeStats = true
