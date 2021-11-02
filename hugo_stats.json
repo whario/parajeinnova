@@ -92,6 +92,7 @@
       "focus:border-gray-500",
       "focus:outline-none",
       "font-bold",
+      "g-recaptcha",
       "gap-2",
       "gap-3",
       "gap-6",
